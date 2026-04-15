@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpplaunchpad.vcxproj" Id="8d8a0151-269c-4761-ad8f-5da6f3fd7ec9" />
+</Solution>
